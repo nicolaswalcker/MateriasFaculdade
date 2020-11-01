@@ -10,7 +10,7 @@
 
 ##### Periodo:
  - [1ºPeriodo](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20Python)
- - [2ºPeriodo]
+ - [2ºPeriodo](https://github.com/nicolaswalcker/MateriasFaculdade/tree/main/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20-%20C/Exerc%C3%ADcios%20Iniciantes%20(C))
 
 ##### Rede Social:
 
