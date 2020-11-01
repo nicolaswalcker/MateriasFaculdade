@@ -1,4 +1,4 @@
-# Exercícios/Soluções da linguagem C/C++
+# Exercícios/Soluções da linguagem Python/C
 ![](https://i.imgur.com/JABXrOp.png)
 
 #### Exercícios concluidos durante meu curso de Ciência da Computação.
